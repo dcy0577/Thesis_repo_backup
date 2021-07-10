@@ -12,10 +12,7 @@ KPConv-PyTorch/results/
 ScanNet/
 SparseConvNet/
 outputs_use/scannet/mvpnet_3d_unet_resnet34_pn2ssg/*
-!outputs_use/scannet/mvpnet_3d_unet_resnet34_pn2ssg/model_040000.pth
 outputs_use/scannet/unet_resnet34/*
-!outputs_use/scannet/unet_resnet34/model_080000.pth
-
 
 # ipython/jupyter notebooks
 *.ipynb
